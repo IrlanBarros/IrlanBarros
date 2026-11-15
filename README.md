@@ -2,7 +2,7 @@
 
 **Desenvolvimento full stack · Engenharia de software · Sistemas embarcados**
 
-### Acesse meu portfólio: https://irlanbarros.pages.dev/
+### Acesse meu portfólio em: [Portfólio](https://irlanbarros.pages.dev/)
 
 Sou graduando em Ciência da Computação pela Universidade Federal do Cariri (UFCA), com experiência profissional em desenvolvimento web e atuação no ensino de robótica. Meus projetos conectam fundamentos da computação a problemas de planejamento acadêmico, gestão de serviços e automação.
 
@@ -34,3 +34,4 @@ Quero aprofundar meu trabalho em arquitetura e qualidade de software, ferramenta
 ## 📫 Contato
 
 [LinkedIn — Irlan Barros](https://www.linkedin.com/in/irlan-barros-55a83924b/)
+Email: irlanbarros100@gmail.com
